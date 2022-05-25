@@ -1,0 +1,13 @@
+{
+  "base_url": "/2022-spring-hcde-410-a/user/skumaran/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://jupyter-skumaran:8888/2022-spring-hcde-410-a/user/skumaran/",
+  "version": "1.11.2"
+}
